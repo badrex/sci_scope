@@ -1,0 +1,15 @@
+article_id: '112482'
+revised_title: 'Euler''s Constant Calculation: A Second Supplementary Paper'
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Numerical Analysis & Approximation
+tldr: This paper by William Shanks explores the calculation of Euler's Constant and
+  its numerical value. Shanks discusses the differences in values when using different
+  numbers of terms in the harmonic progression and the slow extension of the value
+  of E with higher values of n. He also questions the previous suggestion of using
+  50,000 or 100,000 terms to achieve 100 decimal places of accuracy.
+topics:
+- Euler's Constant
+- Numerical Value
+- Harmonic Progression
+- Mathematical Analysis
+- Decimal Approximation

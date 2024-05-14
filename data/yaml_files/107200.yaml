@@ -1,0 +1,14 @@
+article_id: '107200'
+revised_title: A New Method for Computing Logarithms
+scientific_discipline: Mathematics
+scientific_subdiscipline: Number Theory & Logarithms
+tldr: The author presents a new method for computing logarithms that is efficient,
+  easy to apply, and requires no division, multiplication, or extraction of roots.
+  The method allows for the formation of logarithmic tables with increased accuracy
+  and can be used for both small and large numbers.
+topics:
+- Mathematics
+- Number Theory
+- Logarithms
+- Calculation Techniques
+- Decimal Places

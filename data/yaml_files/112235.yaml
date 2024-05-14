@@ -1,0 +1,15 @@
+article_id: '112235'
+revised_title: 'Fermat''s Theorem of Polygonal Numbers: A Second Communication'
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Number Theory & Combinatorics
+tldr: This paper explores the properties of Fermat's Theorem of Polygonal Numbers,
+  demonstrating how the series can be combined and divided into squares. The author
+  shows that certain terms in the series can be divided into four squares, with specific
+  differences between the roots, and provides methods for finding the roots of all
+  terms in the series.
+topics:
+- Number Theory
+- Mathematical Combinatorics
+- Arithmetic Progressions
+- Diophantine Equations
+- Polygonal Numbers

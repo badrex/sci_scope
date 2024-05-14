@@ -1,0 +1,15 @@
+article_id: '110446'
+revised_title: A Simplified Method for Discovering Caustic Equations
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Geometry & Topology
+tldr: The author presents a new method for finding the equations of caustics, which
+  involves differentiating the polar equation of a reflected ray and eliminating arbitrary
+  quantities to obtain the curve's equation. This method is simpler, more elegant,
+  and more general than previous methods, and it can also be applied to solving other
+  problems in geometry and optics.
+topics:
+- Caustics
+- Optics
+- Geometry
+- Reflection
+- Mathematical Methods

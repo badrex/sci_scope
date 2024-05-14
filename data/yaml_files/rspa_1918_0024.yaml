@@ -1,0 +1,15 @@
+article_id: rspa_1918_0024
+revised_title: On the Numerical Solution of Integral Equations of Abel's Type and
+  Poisson's Type
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Numerical Analysis & Approximation Theory
+tldr: The author presents a method for solving integral equations of Abel's and Poisson's
+  types, focusing on numerical solutions and interpolation techniques. The approach
+  involves representing the nucleus function analytically and using the solving function
+  to determine the unknown function.
+topics:
+- Integral Equations
+- Abel's Integral Equation
+- Poisson's Integral Equation
+- Numerical Methods
+- Interpolation

@@ -1,0 +1,14 @@
+article_id: rspl_1880_0054
+revised_title: Improved Bimodular Method for Calculating Logarithms
+scientific_discipline: Mathematics
+scientific_subdiscipline: Number Theory & Logarithms
+tldr: The author presents an improved bimodular method for calculating logarithms
+  using a positive and negative numerical radix, which can calculate natural logarithms
+  and logarithms to any base and number of decimal places. The method offers a more
+  efficient radix construction compared to other methods.
+topics:
+- Mathematics
+- Number Theory
+- Logarithms
+- Radix
+- Numerical Methods

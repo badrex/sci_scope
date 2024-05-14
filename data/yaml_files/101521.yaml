@@ -1,0 +1,13 @@
+article_id: '101521'
+revised_title: A Simple Method for Finding the Year of the Julian Period
+scientific_discipline: Mathematics
+scientific_subdiscipline: Number Theory & Combinatorics
+tldr: The author presents a new and easy method to find the year of the Julian Period
+  by multiplying the solar cycle, lunar cycle, and the indiction, then dividing the
+  sum by 7980. The remainder of the division is the desired year.
+topics:
+- Mathematics
+- Julian Period
+- Calendar
+- Solar Cycle
+- Lunar Cycle

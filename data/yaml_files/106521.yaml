@@ -1,0 +1,15 @@
+article_id: '106521'
+revised_title: Solving Quadratic Equations Using Recurring Series
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Algebra & Number Theory
+tldr: The author presents a method for solving quadratic equations using recurring
+  series. By forming two series from fractions and continuing them both ways, the
+  fractions formed by dividing each term of the first series by the corresponding
+  term of the second series will converge to the roots of the equation. This method
+  allows for approximating two roots at once using one and the same series.
+topics:
+- Mathematics
+- Equations
+- Series
+- Roots
+- Approximation

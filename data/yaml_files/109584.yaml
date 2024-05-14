@@ -1,0 +1,14 @@
+article_id: '109584'
+revised_title: A Method for Computing Integrals in Physical Astronomy
+scientific_discipline: Astronomy
+scientific_subdiscipline: Astrodynamics & Celestial Mechanics
+tldr: The author presents a method for computing integrals of certain differential
+  expressions related to problems in physical astronomy. The method can be applied
+  to expand formulas for estimating planetary perturbations and is particularly useful
+  when the radii of the orbits are nearly equal.
+topics:
+- Differential Equations
+- Astronomical Calculus
+- Geometric Series
+- Series Convergence
+- Planetary Perturbations

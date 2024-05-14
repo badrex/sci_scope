@@ -1,0 +1,15 @@
+article_id: rstl_1881_0006
+revised_title: On the Forty-eight Coordinates of a Cubic Curve in Space
+scientific_discipline: Mathematics
+scientific_subdiscipline: Geometry & Algebra
+tldr: The author investigates the forty-eight coordinates of a cubic curve in space,
+  establishing a method to reduce the number of independent coordinates to eight.
+  The study involves the elimination of variables from two quadric equations representing
+  the cubic curve and the transformation of the resulting equations into expressions
+  that can be used to determine the coordinates.
+topics:
+- Geometry
+- Algebraic Geometry
+- Cubic Curves
+- Coordinate Systems
+- Elimination Theory

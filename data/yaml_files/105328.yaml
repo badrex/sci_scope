@@ -1,0 +1,14 @@
+article_id: '105328'
+revised_title: A General Method for Determining the Sum of Series
+scientific_discipline: Mathematics
+scientific_subdiscipline: Algebra & Number Theory
+tldr: The author presents a general method for determining the sum of series, specifically
+  focusing on the case where every nth term is taken. The method involves finding
+  the roots of equations and substituting them into the given series to obtain the
+  desired sum.
+topics:
+- Mathematics
+- Series
+- Algebra
+- Cubic Equations
+- Roots of Equations

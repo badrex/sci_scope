@@ -1,0 +1,13 @@
+article_id: '104377'
+revised_title: A Rule for Finding Meridional Parts in Spheroids
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Geometry & Trigonometry
+tldr: The article presents a method for calculating meridional parts in spheroids
+  with the same precision as in a sphere. The rule involves using logarithmic tangents
+  and the semidiameter of the equator to find the meridional parts for a given latitude.
+topics:
+- Geometry
+- Spherical Geometry
+- Trigonometry
+- Spheroid Calculations
+- Geodesy

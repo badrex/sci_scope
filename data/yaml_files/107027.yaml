@@ -1,0 +1,15 @@
+article_id: '107027'
+revised_title: A Method for Determining Latitude Using Two Altitudes of the Sun and
+  the Time Elapsed Between Observations
+scientific_discipline: Earth Sciences
+scientific_subdiscipline: Geography & Cartography
+tldr: The author presents a method for accurately determining a place's latitude by
+  using two altitudes of the Sun and the time elapsed between observations. This method
+  accounts for various factors, such as the azimuth and hour-angle, to minimize errors
+  in the calculation.
+topics:
+- Astronomy
+- Geodesy
+- Navigation
+- Celestial Mechanics
+- Timekeeping

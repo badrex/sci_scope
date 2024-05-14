@@ -1,0 +1,15 @@
+article_id: rspl_1896_0076
+revised_title: On Spurious Correlation in Indexes of Organ Measurements
+scientific_discipline: Biology & Life Sciences
+scientific_subdiscipline: Biostatistics & Bioinformatics
+tldr: The author investigates the correlation between indices of organ measurements
+  and discovers that using indices can lead to spurious correlations, which can be
+  misleading in understanding organic relationships. This is particularly relevant
+  when using indices with the same denominator, as the correlation between them can
+  be high even if the organs are not actually related.
+topics:
+- Statistics
+- Biology
+- Organic Correlation
+- Index Correlation
+- Measurement Errors

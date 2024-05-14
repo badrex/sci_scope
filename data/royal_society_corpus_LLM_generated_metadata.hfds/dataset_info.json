@@ -1,0 +1,47 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "article_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "revised_title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "topics": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "tldr": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "scientific_discipline": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "scientific_subdiscipline": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "year": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "decade": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "period": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

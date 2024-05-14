@@ -1,0 +1,16 @@
+article_id: rspl_1875_0035
+revised_title: Mechanical Integration of Linear Differential Equations of Second Order
+  with Variable Coefficients
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Applied Mathematics & Numerical Methods
+tldr: The author presents a method for mechanically integrating linear differential
+  equations of the second order with variable coefficients using a combination of
+  his brother's disk-globe and cylinder-integrators. This method allows for approximate
+  solutions with high accuracy and can be applied to various engineering and physics
+  problems.
+topics:
+- Differential Equations
+- Mathematical Physics
+- Numerical Integration
+- Mechanical Integration
+- Engineering Applications

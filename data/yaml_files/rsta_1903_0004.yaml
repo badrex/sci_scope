@@ -1,0 +1,16 @@
+article_id: rsta_1903_0004
+revised_title: On the Representation of Functions of Spherical Co-ordinates Using
+  Spherical Harmonics
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Analysis & Calculus
+tldr: The author presents a new method for reducing a function of spherical co-ordinates
+  to a series of spherical harmonics, focusing on definite integrals and tesseral
+  functions. This method simplifies the arithmetical labor involved and allows for
+  the independent determination of coefficients for lower degrees, making it more
+  efficient for numerical calculations.
+topics:
+- Spherical harmonics
+- Tesseral functions
+- Definite integrals
+- Angular variables
+- Zonal harmonics

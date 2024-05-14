@@ -1,0 +1,15 @@
+article_id: '111451'
+revised_title: A Comprehensive Study on Matrices and their Applications
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Linear Algebra & Matrix Theory
+tldr: The author, Arthur Cayley, explores the theory of matrices, their properties,
+  and applications. He introduces the concept of matrices, their addition, multiplication,
+  and the formation of powers and functions. Cayley also discusses the theorem that
+  any matrix satisfies an algebraic equation of its own order and its applications,
+  including finding the general expression of matrices convertible with a given matrix.
+topics:
+- Linear Algebra
+- Matrix Theory
+- Determinants
+- Algebraic Functions
+- Linear Transformations

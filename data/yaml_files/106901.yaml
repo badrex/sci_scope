@@ -1,0 +1,13 @@
+article_id: '106901'
+revised_title: Improving Dr. Halley's Quadrature of the Circle
+scientific_discipline: Mathematics
+scientific_subdiscipline: Analysis & Calculus
+tldr: John Hellins presents a transformation of Dr. Halley's series for calculating
+  the ratio of a circle's diameter to its circumference, resulting in series that
+  converge more swiftly and can be easily summed using the powers of 80.
+topics:
+- Mathematical Analysis
+- Series Convergence
+- Geometry
+- Calculus
+- Optimization

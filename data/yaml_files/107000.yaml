@@ -1,0 +1,14 @@
+article_id: '107000'
+revised_title: Improvement of Hyperbolic Logarithm Computation
+scientific_discipline: Mathematics
+scientific_subdiscipline: Number Theory & Algebra
+tldr: The author improves the computation of the hyperbolic logarithm of 10 by transforming
+  the series used in previous calculations. The new series converges faster and allows
+  for easier numerical calculations, making it more efficient for mathematicians and
+  scientists.
+topics:
+- Hyperbolic logarithm
+- Series transformation
+- Mathematical computation
+- Number theory
+- Algebraic series

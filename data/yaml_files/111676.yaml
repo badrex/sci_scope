@@ -1,0 +1,14 @@
+article_id: '111676'
+revised_title: A New Method for Approximating Elliptic and Ultra-Elliptic Functions
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Analysis & Approximation Theory
+tldr: The author presents a new method of approximation for elliptic and ultra-elliptic
+  functions using geometric means, arithmetic means, and harmonic means. This method
+  allows for more accurate integration of these complex functions and can be applied
+  to transcendental functions under a square root radical.
+topics:
+- Elliptic Functions
+- Approximation Methods
+- Integration
+- Arithmetic and Harmonic Means
+- Geometric Mean

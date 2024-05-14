@@ -1,0 +1,14 @@
+article_id: '106975'
+revised_title: A New Method for Computing Slowly Converging Series
+scientific_discipline: Mathematics
+scientific_subdiscipline: Numerical Analysis & Approximation
+tldr: The author presents a new method for computing the value of slowly converging
+  series with affirmative terms, reducing the computational workload and improving
+  convergence speed. The method is demonstrated through various examples and applications
+  in physical astronomy.
+topics:
+- Mathematical Series
+- Summation Techniques
+- Numerical Methods
+- Series Convergence
+- Astronomical Applications

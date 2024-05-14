@@ -1,0 +1,15 @@
+article_id: '112197'
+revised_title: A New Method of Approximation for Elliptic and Ultra-Elliptic Functions
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Analysis & Approximation Theory
+tldr: The author presents a new method of approximation for elliptic and ultra-elliptic
+  functions, building upon previous work by Mr. Sylvester. The method involves the
+  use of rational approximation, partial fractions, and quadratures to facilitate
+  computation. The author also provides auxiliary tables and formulae for using trigonometrical
+  tables with greater precision.
+topics:
+- Approximation Theory
+- Elliptic Functions
+- Mathematical Analysis
+- Numerical Integration
+- Rational Approximation

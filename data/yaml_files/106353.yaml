@@ -1,0 +1,14 @@
+article_id: '106353'
+revised_title: Extending Cardan's Rule for Resolving Cubic Equations
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Algebra & Number Theory
+tldr: The author extends Cardan's rule for resolving cubic equations to the irreducible
+  case, using Sir Isaac Newton's binomial theorem. The method involves deriving a
+  new expression for the value of x in the equation x³ - qx = r, when r is less than
+  2q ~ q/3 ~ 3.
+topics:
+- Algebra
+- Cubic Equations
+- Cardan's Rule
+- Francis Maseres
+- Sir Isaac Newton

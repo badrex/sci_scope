@@ -1,0 +1,13 @@
+article_id: '109525'
+revised_title: Algebraic Expression for Portions of Solidity of a Sphere
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Geometry & Topology
+tldr: Robert Woodhouse presents a theorem that assigns portions of a sphere's solidity
+  using algebraic expressions. He transforms the sphere's coordinates to simplify
+  the integration process, making it less complicated than Viviani's problem.
+topics:
+- Geometry
+- Calculus
+- Solid Geometry
+- Differential Equations
+- Mathematical Analysis

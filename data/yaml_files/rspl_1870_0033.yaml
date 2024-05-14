@@ -1,0 +1,14 @@
+article_id: rspl_1870_0033
+revised_title: Measurement of Internal Resistance in a Multiple Battery
+scientific_discipline: Engineering & Technology
+scientific_subdiscipline: Electrical Engineering
+tldr: The author presents a method for measuring the internal resistance of a multiple
+  battery by adjusting the galvanometer to zero. The formula R = S / (E - e) is provided,
+  where R is the internal resistance, S is the resistance of the shunt, E is the number
+  of cells tested, and e is the number of cells opposed.
+topics:
+- Electrical Resistance
+- Galvanometer
+- Battery Efficiency
+- Electromotive Force
+- Shunt Circuits

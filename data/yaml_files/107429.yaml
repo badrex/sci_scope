@@ -1,0 +1,16 @@
+article_id: '107429'
+revised_title: A New Method for Determining a Comet's Orbit from Three Geocentric
+  Observations
+scientific_discipline: Astronomy
+scientific_subdiscipline: Celestial Mechanics & Orbital Dynamics
+tldr: The author presents a new method for deducing a first approximation of a comet's
+  orbit using three geocentric observations. The method simplifies the complex problem
+  by assuming a small portion of the orbit as a straight line, allowing for easier
+  calculations. However, the author acknowledges that the method is indeterminate
+  when applied to actual data due to the earth and the comet's combined motion.
+topics:
+- Astronomy
+- Comets
+- Orbit Determination
+- Newtonian Mechanics
+- Celestial Mechanics

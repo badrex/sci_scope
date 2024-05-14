@@ -1,0 +1,15 @@
+article_id: rspl_1904_0059
+revised_title: A New Approach to Upper and Lower Integration
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Analysis & Calculus
+tldr: The authors explore a new approach to upper and lower integration, introducing
+  the concept of generalized upper and lower summations. They demonstrate that the
+  lower limit of these summations can be used to define the upper integral, and the
+  upper limit can be used to define the lower integral. This new approach is extended
+  to measurable sets, providing a more general definition of integration.
+topics:
+- Mathematical Analysis
+- Integration Theory
+- Real Analysis
+- Lebesgue Integration
+- Upper and Lower Integration

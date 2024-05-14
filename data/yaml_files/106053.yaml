@@ -1,0 +1,14 @@
+article_id: '106053'
+revised_title: 'The Sieve of Eratosthenes: A Method for Finding Prime Numbers'
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Number Theory & Combinatorics
+tldr: The author presents a method, known as the Sieve of Eratosthenes, for finding
+  all prime numbers. The method involves eliminating composite numbers from an arithmetic
+  series, leaving only prime numbers. This ancient technique is still useful for finding
+  primes and remains a significant contribution to the field of number theory.
+topics:
+- Number Theory
+- Prime Numbers
+- Eratosthenes' Sieve
+- Combinatorial Mathematics
+- Arithmetic

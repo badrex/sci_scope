@@ -1,0 +1,16 @@
+article_id: rspl_1886_0070
+revised_title: On the Discrimination of Maxima and Minima Solutions in the Calculus
+  of Variations
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Analysis & Optimization
+tldr: The author presents a method for finding maxima and minima solutions in the
+  calculus of variations without relying on algebraic transformations. The method
+  considers the continuity of the dependent variables and the second variation to
+  determine the sign of the quadratic function, allowing for a more efficient approach
+  to solving complex problems.
+topics:
+- Calculus of Variations
+- Maxima and Minima
+- Mathematical Optimization
+- Continuity
+- Partial Differential Equations

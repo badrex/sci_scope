@@ -1,0 +1,15 @@
+article_id: '112743'
+revised_title: 'On Linear Differential Equations: Part II'
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Analysis & Calculus
+tldr: The author continues to explore the principles of linear differential equations,
+  focusing on integrating equations when the solution can be expressed in the form
+  e^(Px+Qx^2+...). The paper also discusses modifications needed when the degree of
+  coefficients in the equation is not consistent and provides an example of applying
+  these principles to a well-known differential equation.
+topics:
+- Differential Equations
+- Mathematical Analysis
+- Integration
+- Linear Algebra
+- Rational Functions

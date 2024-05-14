@@ -1,0 +1,14 @@
+article_id: rsta_1911_0009
+revised_title: Approximate Arithmetical Solution of Physical Problems by Finite Differences
+scientific_discipline: Engineering & Technology
+scientific_subdiscipline: Civil Engineering & Construction
+tldr: The author presents a method for solving physical problems involving differential
+  equations using finite differences, with an application to calculating stresses
+  in a masonry dam. The method provides approximate solutions that can be accurate
+  enough for many engineering and scientific applications.
+topics:
+- Finite Differences
+- Differential Equations
+- Engineering Applications
+- Masonry Dam
+- Boundary Value Problems

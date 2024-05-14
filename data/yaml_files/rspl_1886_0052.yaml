@@ -1,0 +1,16 @@
+article_id: rspl_1886_0052
+revised_title: A Simplified Method for Computing Harmonic Components in Atmospheric
+  Phenomena
+scientific_discipline: Environmental & Earth Sciences
+scientific_subdiscipline: Meteorology & Climatology
+tldr: Lieut.-General Strachey proposes a less laborious method for computing the harmonic
+  components of atmospheric temperature and pressure variations, which provides nearly
+  the same probable errors as the method of least squares. This method can be applied
+  to cases with angular intervals that make the circle exactly divisible by 6 and
+  8.
+topics:
+- Harmonic Components
+- Atmospheric Temperature
+- Atmospheric Pressure
+- Method of Least Squares
+- Approximate Computation

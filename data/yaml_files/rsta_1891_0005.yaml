@@ -1,0 +1,15 @@
+article_id: rsta_1891_0005
+revised_title: On the Harmonic Analysis of Tidal Observations and Tidal Prediction
+scientific_discipline: Environmental & Earth Sciences
+scientific_subdiscipline: Oceanography & Coastal Studies
+tldr: The author presents a method for creating a general tide table applicable to
+  all times, allowing users to compute tidal heights for specific days with minimal
+  effort. The method involves analyzing tidal observations using the harmonic system
+  and considering the time of moon's transit, time of year, and other variables to
+  create accurate predictions.
+topics:
+- Tidal prediction
+- Harmonic analysis
+- Tidal constants
+- Tid
+- Tidal observation

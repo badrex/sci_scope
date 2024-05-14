@@ -1,0 +1,16 @@
+article_id: '112225'
+revised_title: On the Theory of Probabilities and Ideal Events
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Probability & Statistics
+tldr: George Boole investigates the analytical conditions of a method for solving
+  probability problems, focusing on the use of ideal events and their connection to
+  compound events. He demonstrates that the probabilities of ideal events can be determined
+  when the original data supply the conditions of a possible experience, and that
+  the final probability lies within the limits it would have if determined by actual
+  observation.
+topics:
+- Probability Theory
+- Mathematical Logic
+- Statistical Analysis
+- Data Interpretation
+- Compound Events

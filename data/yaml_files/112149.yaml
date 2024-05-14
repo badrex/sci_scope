@@ -1,0 +1,14 @@
+article_id: '112149'
+revised_title: Symbolical Expansions and the Calculus of Symbols
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Algebra & Calculus
+tldr: The author investigates the connection between binomial theorems and expansions
+  in the Calculus of Symbols, focusing on the expansion of f(x+dx) in terms of d.
+  They demonstrate a method to find the part of the expansion that does not contain
+  dx and apply it to the expansion of f(x+dx) in terms of d.
+topics:
+- Algebra
+- Symbolic Mathematics
+- Mathematical Expansion
+- Binomial Theorems
+- Calculus

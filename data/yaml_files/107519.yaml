@@ -1,0 +1,14 @@
+article_id: '107519'
+revised_title: Improved Methods for Calculating Excentric Anomaly in Planetary Orbits
+scientific_discipline: Astronomy
+scientific_subdiscipline: Celestial Mechanics & Planetary Motion
+tldr: The author, Abram Robertson, presents three direct and expeditious methods for
+  calculating the excentric anomaly from the mean anomaly of a planet, improving upon
+  previous methods and providing accurate results for various examples, including
+  the orbit of a comet.
+topics:
+- Astronomy
+- Celestial Mechanics
+- Planetary Motion
+- Mathematical Astronomy
+- Approximation Techniques

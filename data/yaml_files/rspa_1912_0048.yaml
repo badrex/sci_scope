@@ -1,0 +1,14 @@
+article_id: rspa_1912_0048
+revised_title: A New Approach to Optical Aberration Analysis
+scientific_discipline: Physics
+scientific_subdiscipline: Optics & Light
+tldr: The author develops a new method to analyze optical aberration, expanding Gauss's
+  method to include third-order aberrations. This new approach allows for more efficient
+  calculations of telescopic objectives, offering a significant reduction in the required
+  numerical work.
+topics:
+- Optical Aberration
+- Gauss's Method
+- Abbe's Sine Condition
+- Petzval's Expression
+- Telescopic Objectives

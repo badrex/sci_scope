@@ -1,0 +1,15 @@
+article_id: '111811'
+revised_title: A Simple Geometrical Construction for Approximating the Area of a Circle
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Geometry & Geometric Constructions
+tldr: The author presents a simple geometric construction that provides a very close
+  approximation of the area of a circle. The method involves drawing a quadrant of
+  a circle and constructing a chord within it, followed by a series of steps that
+  result in an approximation with an error of less than one-fourth of a thousandth
+  part of the side of a square with the same area.
+topics:
+- Geometry
+- Circle
+- Quadrature
+- Approximation
+- Geometric Construction

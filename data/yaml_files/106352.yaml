@@ -1,0 +1,16 @@
+article_id: '106352'
+revised_title: A Method for Summing Slowly-Converging Infinite Series Using Binomial
+  Theorem
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Analysis & Approximation
+tldr: The author presents a method for approximating the value of slowly-converging
+  infinite series using Sir Isaac Newton's binomial theorem. The method involves finding
+  a near value of the series by manipulating the generating fractions and applying
+  the binomial theorem. The author demonstrates the method on the series X + xx/2
+  + x3/3 + x4/4 + x5/5 +... when X is nearly equal to 1.
+topics:
+- Infinite Series
+- Binomial Theorem
+- Mathematical Analysis
+- Numerical Approximation
+- Francis Maseres

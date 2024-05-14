@@ -1,0 +1,14 @@
+article_id: '111354'
+revised_title: On the Resultant of a System of Two Equations
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Algebra & Number Theory
+tldr: This paper by Arthur Cayley explores the resultant of two equations and presents
+  methods for calculating it using symmetric functions and determinants. The paper
+  focuses on developing expressions for the resultant of equations with degrees not
+  exceeding 4.
+topics:
+- Algebra
+- Symmetric Functions
+- Determinants
+- Equation Solving
+- Mathematical Methods

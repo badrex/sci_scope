@@ -1,0 +1,14 @@
+article_id: '110741'
+revised_title: A Simple Method for Approximating Real Roots of Numerical Equations
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Numerical Analysis & Optimization
+tldr: Thomas Weddle presents a new method for approximating the real roots of numerical
+  equations. The method involves transforming the equation and using continued products
+  to find the roots. The author demonstrates the method on equations of the 4th, 5th,
+  16th, and 622nd degrees.
+topics:
+- Numerical Equations
+- Root Finding
+- Approximation Algorithms
+- Transformation Methods
+- Decimal Expansion

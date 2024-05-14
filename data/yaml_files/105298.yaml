@@ -1,0 +1,15 @@
+article_id: '105298'
+revised_title: Optimal Geographical Map Projection Techniques
+scientific_discipline: Earth Sciences
+scientific_subdiscipline: Geography & Cartography
+tldr: The author discusses the limitations of existing geographical map projections
+  and proposes a new method for creating maps that accurately represent the surface
+  area and linear distances of the regions being mapped. This method involves using
+  a conical surface projection and can be applied to create more accurate and useful
+  maps for various purposes.
+topics:
+- Geographical Maps
+- Map Projections
+- Cartography
+- Geographical Data Representation
+- Spatial Data Analysis

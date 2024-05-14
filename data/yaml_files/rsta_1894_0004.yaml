@@ -1,0 +1,15 @@
+article_id: rsta_1894_0004
+revised_title: A New Approach to Generating Functions in Number Theory
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Combinatorics & Number Theory
+tldr: The author investigates a certain class of generating functions in number theory,
+  focusing on the relationship between redundant and condensed forms. The main theorem
+  states that the generating function for the coefficients of a particular redundant
+  function can be expressed as a function of the coaxial minors of the determinant
+  of the given quantities.
+topics:
+- Generating Functions
+- Number Theory
+- Determinants
+- Combinatorics
+- Symmetric Functions

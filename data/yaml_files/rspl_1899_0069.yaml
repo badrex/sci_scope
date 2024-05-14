@@ -1,0 +1,13 @@
+article_id: rspl_1899_0069
+revised_title: On the Computation of Mathematical Functions G, G1, and J
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Applied Mathematics & Numerical Analysis
+tldr: The authors present a method for numerically computing the functions G0(x),
+  G1(x), and Jn(x) using Bessel and Neumann functions. They provide tables of computed
+  values for these functions and discuss various methods for verifying their accuracy.
+topics:
+- Mathematical Functions
+- Numerical Computation
+- Bessel Functions
+- Neumann Functions
+- Series Expansion

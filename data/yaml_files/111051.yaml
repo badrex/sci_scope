@@ -1,0 +1,15 @@
+article_id: '111051'
+revised_title: A New Method for Analyzing Numerical Equations
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Numerical Analysis & Optimization
+tldr: The author presents a new method for analyzing numerical equations by decomposing
+  them into conjugate factors and using rejective intervals to reduce the search space
+  for roots. This method is demonstrated through examples from Sturm, Fourier, and
+  other mathematicians, and also provides criteria for the existence of imaginary
+  roots in equations.
+topics:
+- Numerical Analysis
+- Equation Solving
+- Mathematical Optimization
+- Root Finding
+- Stur

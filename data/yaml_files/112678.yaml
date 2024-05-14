@@ -1,0 +1,15 @@
+article_id: '112678'
+revised_title: Geometric Properties of Curves Fulfilling the Condition d²x² + d²y²
+  = 0
+scientific_discipline: Mathematics & Statistics
+scientific_subdiscipline: Geometry & Topology
+tldr: The author demonstrates a geometric property of plane curves that fulfill the
+  condition d²x² + d²y² = 0, proving that when these curves intersect at a double
+  point, they do so at right angles. The paper also extends the theorem to show that
+  at a multiple point, the branches make equal angles with each other.
+topics:
+- Geometry
+- Curves
+- Differential Geometry
+- Plane Curves
+- Tangents
