@@ -8,7 +8,7 @@ tldr: The author presents a new approach to the Sturm-Liouville series by using 
   function with a constant value in each sub-interval, leading to a more flexible
   and accurate solution.
 topics:
-- Stur
+- Sturm-Liouville Theory
 - Integral Equations
 - Approximation Methods
 - Harmonic Analysis

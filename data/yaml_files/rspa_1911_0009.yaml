@@ -7,7 +7,7 @@ tldr: The author presents a theorem that expands an arbitrary function as a seri
   providing a formula for asymptotic behavior and discussing the convergence of the
   series.
 topics:
-- Stur
+- Sturm-Liouville Theory
 - Integral Equations
 - Normal Functions
 - Asymptotic Analysis

@@ -8,7 +8,7 @@ tldr: The authors extend De Saint-Venant's solution for the flexure of cantileve
   to a cantilever with a cross-section of a curtate circular sector and analyze the
   influence of fixing conditions on deflection.
 topics:
-- De Sain
+- De Saint-Venant's solution
 - Flexure
 - Cantilevers
 - Circular sectors
