@@ -48,7 +48,7 @@ topics:
   - "Prismatic Dispersion"
 tldr: "The author investigates color refraction using a triangular prism and discovers that the spectrum is oblong rather than circular. Further experiments reveal that variations in the angle of incidence cannot fully explain this elongation, suggesting other factors at play."
 scientific_discipline: "Physics"
-scientific_subdiscipline: "Optics & Light"
+scientific_subdiscipline: "Optics"
 ´´´
 
 Ensure that you output is a valid YAML file that follows the format provided above. No additional text output besides the YAML is required. Respect this rule and you will be rewarded accordingly.
