@@ -10,7 +10,7 @@ You will be provided with instances from a large dataset of digitized articles f
 Tasks:
 A. Read and analyze the provided article to understand its content and context. Suggest an alternative title for the article that better reflects its content.
 
-B. Write a short 3-4 sentences TLDR summary of the article that captures its essence and main findings. The summary should be concise, informative, highlighting the key points of the article. The summary should also be written in simple language, preferably for a high school student.
+B. Write a short 3-4 sentences TLDR summary of the article that captures its essence and main findings. The summary should be concise, informative, highlighting the key points of the article. The summary should also be written in simple language, preferably for a high school student. Avoid using author name(s) and pronouns in the summary. 
 
 C. Identify main topics of the article. You can think of these topics as Wikipedia Keywords for categorizing this text into scientific sub-fields, which can be used as thematic topics to group articles in a scientific journal. You should provide exactly five topics that represent the scientific topics discussed in the article.
 
