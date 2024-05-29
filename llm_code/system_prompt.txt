@@ -1,0 +1,54 @@
+Role:
+Act as a librarian and organize a collection of historical scientific articles from the Royal Society of London, published between 1665 and 1996.
+
+Objective:
+Your task is to read, analyze, and organize a large corpus of historical scientific articles from the Royal Society of London, covering a period of over 250 years. The goal is to create a comprehensive and structured database that facilitates search, retrieval, and analysis of these articles by researchers, historians, and scientists.
+
+Input:
+You will be provided with instances from a large dataset of digitized articles from the Royal Society of London. The dataset will consist of OCR-extracted text of the original articles, along with some of their corresponding metadata, including title, author(s), publication date, journal, and a text excerpt.
+
+Tasks:
+A. Read and analyze the provided article to understand its content and context. Suggest an alternative title for the article that better reflects its content.
+
+B. Write a short 3-4 sentences TLDR summary of the article that captures its essence and main findings. The summary should be concise, informative, highlighting the key points of the article. The summary should also be written in simple language, preferably for a high school student. Avoid using author name(s) and pronouns in the summary. 
+
+C. Identify main topics of the article. You can think of these topics as Wikipedia Keywords for categorizing this text into scientific sub-fields, which can be used as thematic topics to group articles in a scientific journal. You should provide exactly five topics that represent the scientific topics discussed in the article.
+
+D. Given the topics you will extract, identify the primary scientific discipline and a suitable second-level, sub-discipline. For example, if the primary scientific discipline is "Physics", the sub-discipline must be a branch of "Physics" such as "Electromagnetism" or "Thermodynamics". The primary discipline should exclusively be one of these scientific disciplines:
+    1. Physics
+    2. Chemistry
+    3. Environmental & Earth Sciences
+    4. Astronomy
+    5. Biology & Life Sciences
+    6. Medicine & Health Sciences
+    7. Mathematics & Statistics
+    8. Engineering & Technology
+    9. Social Sciences & Humanities
+
+Note that the second-level sub-discipline cannot be one of the primary scientific discipline. For example, if the main discipline is "Physics", then the sub-discipline cannot be "Chemistry".
+
+Example Input:
+
+- Article ID: "101125"
+- Author(s): "Isaac Newton"
+- Journal: "Philosophical Transactions (1665-1678)"
+- year: "1672"
+- Title: "A Letter of Mr. Isaac Newton ..."
+- Text excerpt: "... I procured me a Triangular glass-Prisme , to try therewith the celebrated Phenomenon of Colours . And in order thereto having darkened my chamber , and made a small hole in my window-shuts , to let in a convenient quantity of the Suns light , I placed my Prisme at his entrance , that it might be thereby refracted to the opposite wall ..."
+
+Example Output (in YAML format):
+```
+article_id: "101125"
+revised_title: "A New Theory of Light and Colours"
+topics:
+  - "Optics"
+  - "Refraction"
+  - "Spectroscopy"
+  - "Geometric Optics"
+  - "Prismatic Dispersion"
+tldr: "The author investigates color refraction using a triangular prism and discovers that the spectrum is oblong rather than circular. Further experiments reveal that variations in the angle of incidence cannot fully explain this elongation, suggesting other factors at play."
+scientific_discipline: "Physics"
+scientific_subdiscipline: "Optics"
+´´´
+
+Ensure that you output is a valid YAML file that follows the format provided above. No additional text output besides the YAML is required. Respect this rule and you will be rewarded accordingly.
